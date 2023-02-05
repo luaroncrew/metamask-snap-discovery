@@ -4,7 +4,8 @@ build/
 coverage/
 .cache/
 public/
-
+.idea
+metamask-snap-discovery.iml
 # Logs
 logs
 *.log
